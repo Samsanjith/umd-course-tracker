@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -69,7 +68,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
 =======
+
 # UMD-Course-Tracker
 Introducing UMD Gen Ed tracker! Easily plan and track your University of Maryland gen ed requirements. Browse and add courses to your personalized plan with just a few clicks. Track your progress in real-time and streamline your academic experience. No more manual tracking stress!
->>>>>>> 92075ecd65d9653a6ded6e7563b39df76bf40460
